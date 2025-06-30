@@ -344,7 +344,7 @@ def main():
         )
     
     with col2:
-        recursion_limit = st.number_input("Max Steps", min_value=5, max_value=2500, value=15)
+        recursion_limit = st.number_input("Max Steps", min_value=5, max_value=2500, value=1500)
     
     # Generate button
     if st.button("🚀 Generate Research & Chart", type="primary", use_container_width=True):
