@@ -202,6 +202,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Connect
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: ashumishra1@outlook.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ashumish/
 - 🐦 Twitter: [@YourTwitter](https://twitter.com/yourhandle)
